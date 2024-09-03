@@ -1,6 +1,6 @@
 # Análise de Dados com Python
 
-Este repositório contém quatro notebooks que exploram diversos exercícios e análises de dados utilizando Python. As análises foram realizadas com bibliotecas como `pandas`, `seaborn`, `matplotlib`, `plotly`, e `scikit-learn`, entre outras. Abaixo, detalhamos o conteúdo de cada notebook.
+Este repositório contém quatro notebooks que exploram diversos exercícios e análises de dados utilizando Python. As análises foram realizadas com bibliotecas como `pandas`, `seaborn`, `matplotlib`, `plotly`, e `scikit-learn`, entre outras. Abaixo, detalho o conteúdo de cada notebook.
 
 ## Estrutura dos Notebooks
 
